@@ -21,4 +21,4 @@ This project focuses on exploring and classifying exoplanets using machine learn
 ### Ending notes:
    - The following project is my first machine-learning project so for certain concepts I have also linked ytvideos(inline-comments) that I have referred to, for better understanding of the project
   
-### Peace:
+### Peace
